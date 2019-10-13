@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeweenihus.misplacedconfidence.com/sitemap.xml
